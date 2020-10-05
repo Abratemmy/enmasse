@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,53 @@
   to {
     transform: rotate(360deg);
   }
+} */
+:root{
+  --primaryColor:#FFA010;
+  --mainBlue:#2E9EB6;
+  --mainWhite: #ffffff;
+  --mainBlack:  #3E3E3E;
+  --mainGrey: #828282;
+  --mainDarkblue:  #03363C;
+  --mainSpacing: 0.1rem;
+  --mainTransition: all 0.3s linear;
+
+}
+body{
+  background:var(--mainWhite);
+}
+.mycontainer{
+  width: 100%;
+  padding: 0px 6% 0px 6%;
+}
+h1, h2{
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: -3px;
+  text-transform: capitalize;
+}
+.navlink-btn{
+  background-color: var(--primaryColor);
+  border-radius: 5px;
+  padding: 10px 15px 10px 15px;
+  color: var(--mainWhite);
+  font-weight: bold;
+  font-size: 17px;
+  font-family: 'Montserrat', sans-serif;
+  transition:0.6s all ease;
+}
+.navlink-btn:hover{
+  text-decoration: none;
+  color:var(--mainBlue);
+}
+.navlink-btn-wider{
+  color: var(--mainWhite);
+  font-weight: bold;
+  padding:10px 45px 10px 45px!important;
+}
+ul{
+  padding:0;
+  margin:0;
+}
+li{
+  list-style-type: none;
 }

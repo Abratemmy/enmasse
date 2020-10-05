@@ -1,0 +1,83 @@
+.makerequest-section{
+    overflow: hidden;
+}
+.request-section{
+    background-color: var(--mainBlue);
+    height: 200px;
+}
+.request-section .page-background-title{
+    padding: 30px 0px 0px 0px;
+    color: var(--mainWhite);
+    font-weight: bold;
+    font-size: 36px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: -1px;
+}
+.request-section .page-background-text{
+    color:var(--mainWhite);
+    font-size: 18px;
+    font-weight: normal;
+    letter-spacing: -1px;
+    position: relative;
+    top:-10px;
+}
+.make-requestimg{
+    top: -100px;
+    height:310px;
+}
+
+.request-img2{
+    background: url('../../Images/request-img2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position:fixed;
+    left:-70px!important;
+    width: 100%!important;
+    top:-110px;
+  
+}
+.request-img1{
+    background: url('../../Images/request-img1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position:relative;
+    left:50px!important;
+    width: 100%!important;
+    height: 301px;
+}
+
+.makerequest-section .signupform .label{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    color:var(--mainGrey);
+}
+.makerequest-section .signupform .makerequest-span{
+    color:red;
+    padding-left: 3px;
+}
+
+.photo-album{
+    width: 70px;
+    height:70px;
+    text-align: center;
+    background-color: var(--primaryColor);
+    color: white;
+}
+.makerequest-section .photo-album a{
+    color:var(--mainWhite);
+    font-size: 40px;
+    transition:var(--mainTransition);
+}
+.makerequest-section .photo-album a:hover{
+    color: var(--mainBlue);
+}
+.makerequest-section .photo-album .photo-album-logo{
+    font-weight: bold;
+}
+.makerequest-section .photo-album-text{
+    font-size: 13px;
+    color:var(--mainGrey);
+    padding-bottom: 20px;
+}

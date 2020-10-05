@@ -1,0 +1,28 @@
+.navigation{
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: 65px;
+    padding-top: 20px;
+    
+}
+.header-route{
+    display: flex;
+    justify-content: space-between;
+}
+.header-route .header-list ul{
+    display: flex;
+    padding-right: 140px;
+}
+.header-route .header-list ul li{
+    padding: 0px 20px 0px 20px;
+}
+.header-route .header-signin-signup{
+    display: flex;
+}
+.header-route .header-signin-signup .signin{
+    padding-right: 30px;
+}

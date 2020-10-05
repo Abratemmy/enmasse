@@ -1,0 +1,14 @@
+.signup .forgotpassworddiv{
+    margin-top: 30px!important;
+    width: 100%;
+}
+.signup  .forgotpassword{
+    width: 100%!important;
+    background-color: var(--mainBlue);
+    color: var(--mainWhite);
+
+}
+.signup .forgotpassword:hover{
+    color:var(--primaryColor);
+    text-decoration: none;
+}

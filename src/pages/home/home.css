@@ -1,0 +1,43 @@
+.section-one{
+    z-index: 1;
+    overflow:hidden;
+}
+.make-request{
+    background-color: var(--mainBlue);
+    height: 200px;
+}
+.make-request-text{
+    padding: 20px 0px 20px 3.5%!important;   
+    color: var(--mainWhite);
+    font-family: 'Montserrat', sans-serif;
+}
+.make-request-text h6{
+    padding-bottom: 20px;
+}
+.homemakingrequestimg{
+    background: url('../../Images/homemakingreguest.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    top: -120px;
+    height: 320px;
+}
+.homepage{
+    overflow: hidden;
+}
+.homepage-input{
+    height: 50px!important;
+}
+.homepage-search-btn{
+    background-color: var(--primaryColor);
+    padding: 10px;
+    color: var(--mainWhite);
+}
+
+/* css for sidebar */
+.sidebar{
+    border: 1px solid #1e3f50;
+    padding: 10px 10px;
+    margin-bottom: 25px;
+}

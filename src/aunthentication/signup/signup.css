@@ -1,0 +1,61 @@
+.signup h2{
+    letter-spacing: 1px;
+    padding: 30px 0px 5px 0px;
+    font-weight: bold;
+    font-size: 30px;
+    color:var(--mainDarkblue);
+}
+.signup .subtext{
+    font-weight: 'Montserrat', sans-serif;
+    font-size: 18px;
+    padding-bottom: 25px;
+    color:var(--mainBlack);
+}
+.signupform{
+    margin: 5px 0px 15px 0px;
+}
+.signupform .label{
+    font-family:'Mulish', sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:var(--mainBlack);
+}
+.inputfield{
+    width: 100%;
+    background: var(--mainWhite);
+    border: 1px solid #DFDFDF;
+    box-sizing: border-box;
+    border-radius: 7px;
+    height: 50px;
+}
+.signUpButton{
+    border: none;
+    width: 100%;
+    color:var(--mainWhite);
+    font-size: 17px;
+}
+.signUpButton:hover{
+    color:var(--mainBlue);
+}
+input[type="password"]{
+    background:url('../../Images/passwordlogo.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    border-radius: none;
+}
+.signup-to-signin{
+    padding: 20px 0px 40px 0px;
+    font-family: 'Mulish', sans-serif;
+    font-size: 17px;
+}
+.signup-to-signin-link{
+    color:var(--mainBlue);
+    font-weight: bold;
+}
+.signup-to-signin-link:hover{
+    color: var(--primaryColor);
+    text-decoration: none;
+}

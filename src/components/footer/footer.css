@@ -1,0 +1,81 @@
+.general-footer{
+    background-color: var(--mainBlue);
+    padding: 0px 0px 15px 0px;
+    color: var(--mainWhite);
+}
+.general-footer1{
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+.general-footer-title{
+    font-family: 'Mulish', sans-serif;
+    Line-Height: 25.08px;
+    padding-bottom: 10px;
+}
+.general-footer-text{
+    font-family: 'Mulish', sans-serif;
+}
+.general-footer-col{
+    width: 90%!important;
+}
+.general-footer-input input[type="text"]{
+    width: 100%;
+    height: 40px;
+    background: var(--mainWhite);
+    border: 5px;
+    border-radius: 1px solid gray;
+    margin-bottom: 30px;
+}
+.general-footer-subsrcibe{
+    width: 100%;
+    height: 40px;
+    background: var(--primaryColor);
+    border: 5px;
+    border-radius: 1px solid gray;
+}
+.general-footer-links{
+    color:var(--mainWhite);
+}
+.general-footer-links:hover{
+    color:var(--primaryColor);
+    text-decoration: none;
+}
+.general-footer-icon{
+    color:var(--mainWhite);
+}
+.general-footer-icon:hover{
+    color:var(--primaryColor);
+}
+.general-footer-title ul{
+    display: flex;
+    padding-top: 7px;
+   
+}
+.general-footer-title ul li{
+    padding-right: 17px;
+    font-size: 17px;
+}
+.footer-hr{
+    border-bottom: 2px solid var(--mainWhite);
+}
+
+/* css for footer top starts right here */
+.footertop{
+    background-color:var(--mainBlue);
+    margin:0!important;
+    padding:0!important;
+    color:var(--mainWhite);
+}
+.footertopsection{
+    padding: 15px 0px 5px 0px;
+}
+.footertop-title{
+    font-weight: bold;
+    font-family:  'Mulish', sans-serif;
+    font-size: 26px;
+}
+.footertop-subtitle{
+    font-size: 17px;
+    padding: 0px 0px 30px 0px;
+}
