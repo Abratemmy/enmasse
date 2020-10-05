@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/enmasse/static/css/main.d47fb6f5.chunk.css",
+    "main.js": "/enmasse/static/js/main.b16aeddb.chunk.js",
+    "main.js.map": "/enmasse/static/js/main.b16aeddb.chunk.js.map",
+    "runtime-main.js": "/enmasse/static/js/runtime-main.42d47f3c.js",
+    "runtime-main.js.map": "/enmasse/static/js/runtime-main.42d47f3c.js.map",
+    "static/css/2.f97ca098.chunk.css": "/enmasse/static/css/2.f97ca098.chunk.css",
+    "static/js/2.070fc666.chunk.js": "/enmasse/static/js/2.070fc666.chunk.js",
+    "static/js/2.070fc666.chunk.js.map": "/enmasse/static/js/2.070fc666.chunk.js.map",
+    "index.html": "/enmasse/index.html",
+    "precache-manifest.c48974c2aa485d2d088b2faaafcd0f34.js": "/enmasse/precache-manifest.c48974c2aa485d2d088b2faaafcd0f34.js",
+    "service-worker.js": "/enmasse/service-worker.js",
+    "static/css/2.f97ca098.chunk.css.map": "/enmasse/static/css/2.f97ca098.chunk.css.map",
+    "static/css/main.d47fb6f5.chunk.css.map": "/enmasse/static/css/main.d47fb6f5.chunk.css.map",
+    "static/js/2.070fc666.chunk.js.LICENSE.txt": "/enmasse/static/js/2.070fc666.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/enmasse/static/media/homemakingreguest.7d78aacd.png",
+    "static/media/makerequest.css": "/enmasse/static/media/request-img2.0e104559.png",
+    "static/media/slick-theme.css": "/enmasse/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42d47f3c.js",
+    "static/css/2.f97ca098.chunk.css",
+    "static/js/2.070fc666.chunk.js",
+    "static/css/main.d47fb6f5.chunk.css",
+    "static/js/main.b16aeddb.chunk.js"
+  ]
+}
