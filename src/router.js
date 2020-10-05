@@ -13,7 +13,7 @@ import Makerequest from './pages/makerequest/makerequest';
 const Router = ()=>(
     <Switch>
         {/* pages */}
-        <Route exact path ='/home' component = {Home} />
+        <Route exact path ='/enmasse' component = {Home} />
         <Route exact path ='/categories' component = {Categories}/>
         <Route exact path ='/become_agent' component={Agent}/>
         <Route exact path='/make_request' component={Makerequest} />
