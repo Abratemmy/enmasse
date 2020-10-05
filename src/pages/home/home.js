@@ -6,9 +6,13 @@ import Footertop from '../../components/footer/footertop';
 import products from '../../data/products.json';
 import Slider from 'react-slick';
 
+
+
 const Home=(props)=> {
     
-   
+   function func(){
+        console.log(products)
+    }
  
         const displayproducts={
             dots:true,
@@ -79,6 +83,7 @@ const Home=(props)=> {
 
                         {/* code to display all products below */}
                         <div className="col-lg-9 col-md-9 homepage-items">
+                            <button onClick={func}>this is for testing</button>
                         {/* <div className="stock-container">
                             {products.map((data, key) => {
                             return (
